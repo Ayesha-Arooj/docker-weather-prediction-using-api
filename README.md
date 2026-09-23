@@ -333,7 +333,7 @@ POST /predict/min_t
             "min_temperature": 21.4
         },
         {
-            "date": "2026-09-25",
+            "date": "2023-09-25",
             "min_temperature": 22.1
         }
     ]
