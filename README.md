@@ -290,7 +290,7 @@ The `num_days` parameter specifies how many future days should be predicted.
 {
     "predictions": [
         {
-            "date": "-09-24",
+            "date": "2023-09-24",
             "max_temperature": 30.5
         },
         {
@@ -329,7 +329,7 @@ POST /predict/min_t
 {
     "predictions": [
         {
-            "date": "2026-09-24",
+            "date": "2023-09-24",
             "min_temperature": 21.4
         },
         {
