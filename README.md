@@ -290,11 +290,11 @@ The `num_days` parameter specifies how many future days should be predicted.
 {
     "predictions": [
         {
-            "date": "2026-09-24",
+            "date": "-09-24",
             "max_temperature": 30.5
         },
         {
-            "date": "2026-09-25",
+            "date": "2023-09-25",
             "max_temperature": 31.2
         }
     ]
